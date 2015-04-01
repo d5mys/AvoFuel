@@ -1,0 +1,250 @@
+.version.a320 /* version checker */
+{
+	color: #0000F6;
+	background-color: #2591E5;
+}
+
+@-ms-viewport
+{
+	width: 350px;
+}
+
+@-webkit-viewport
+{
+	width: 350px;
+}
+
+@-o-viewport
+{
+	width: 350px;
+}
+
+@-moz-viewport
+{
+	width: 350px;
+}
+
+@viewport
+{
+	width: 350px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 350px;
+	min-height: 570px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFEFF;
+}
+
+#page_position_content
+{
+	padding-top: 13px;
+	padding-bottom: 71px;
+}
+
+#u131-6
+{
+	z-index: 4;
+	display: block;
+	vertical-align: top;
+	margin-left: 8px;
+	position: relative;
+}
+
+#pu225
+{
+	width: 0.01px;
+	margin-top: 23px;
+}
+
+#u225
+{
+	z-index: 2;
+	width: 350px;
+	opacity: 0.1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
+	filter: alpha(opacity=10);
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u225_clip
+{
+	overflow: hidden;
+	width: 350px;
+	height: 428px;
+}
+
+#u225_img
+{
+	margin: -18px -218px -35px -113px;
+}
+
+#u134
+{
+	z-index: 10;
+	width: 336px;
+	min-height: 295px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 18px;
+	left: 7px;
+}
+
+#menuu163
+{
+	z-index: 11;
+	width: 334px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #A7FF46;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 353px;
+	left: 7px;
+}
+
+#u164
+{
+	width: 82px;
+	min-height: 34px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u167
+{
+	width: 82px;
+	background-color: #C4C4C4;
+	padding-bottom: 17px;
+	position: relative;
+}
+
+#u167:hover
+{
+	background-color: #999999;
+	margin: 0px;
+}
+
+#u171
+{
+	width: 82px;
+	min-height: 34px;
+	position: relative;
+	margin-right: -10000px;
+	left: 84px;
+}
+
+#u172
+{
+	width: 82px;
+	background-color: #C4C4C4;
+	padding-bottom: 17px;
+	position: relative;
+}
+
+#u175-4
+{
+	width: 82px;
+	min-height: 17px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+	left: 0px;
+}
+
+#u178
+{
+	width: 82px;
+	min-height: 34px;
+	position: relative;
+	margin-right: -10000px;
+	left: 168px;
+}
+
+#u181
+{
+	width: 82px;
+	background-color: #C4C4C4;
+	padding-bottom: 17px;
+	position: relative;
+}
+
+#u172.MuseMenuActive,#u181:hover
+{
+	background-color: #999999;
+	margin: 0px;
+}
+
+#u245
+{
+	width: 82px;
+	min-height: 34px;
+	position: relative;
+	margin-right: -10000px;
+	left: 252px;
+}
+
+#u248
+{
+	width: 82px;
+	background-color: #C4C4C4;
+	padding-bottom: 17px;
+	position: relative;
+}
+
+#u248:hover
+{
+	background-color: #999999;
+	margin: 0px;
+}
+
+#u167:active,#u181:active,#u248:active
+{
+	background-color: #6B6B6B;
+	margin: 0px;
+}
+
+#u170-4,#u183-4,#u250-4
+{
+	width: 82px;
+	min-height: 17px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+body
+{
+	position: relative;
+	min-width: 350px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

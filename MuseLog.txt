@@ -1,0 +1,81 @@
+Logging in build 2014.0.0.328 started at: Sun Mar 29 15:36:04 2015
+========================================
+[01:11:29.709] 00:00:00.000 | SaveAs complete for file '/Users/Demy/Documents/my app.muse' file size:1277952 mod Date:Sun Mar 29 16:47:33 GMT+0100 2015 highest UID:213
+[01:12:42.544] 00:01:12.836 | Quitting Application after 72.7 minutes. Called by: MethodInfo-5710+MethodInfo-5723+EventDispatcher/dispatchEventFunction+EventDispatcher/dispatchEvent+MethodInfo-2775
+
+==========
+Logging ended at: Sun Mar 29 16:48:49 2015
+
+Logging in build 2014.0.0.328 started at: Sun Mar 29 17:03:48 2015
+========================================
+[00:01:06.712] 00:00:00.000 | Opening file '/Users/Demy/Documents/my app.muse' with status:success size:1277952 mod Date:Sun Mar 29 16:47:33 GMT+0100 2015 highestUID: 213
+[00:01:47.845] 00:00:41.135 | Opening file '/Users/Demy/Documents/my app.muse' with status:success size:1277952 mod Date:Sun Mar 29 16:47:33 GMT+0100 2015 highestUID: 213
+[00:02:28.525] 00:00:40.679 | Opening file '/Users/Demy/Documents/my app.muse' with status:success size:1277952 mod Date:Sun Mar 29 16:47:33 GMT+0100 2015 highestUID: 213
+[00:02:57.413] 00:00:28.888 | Opening file '/Users/Demy/Documents/my app.muse' with status:success size:1277952 mod Date:Sun Mar 29 16:47:33 GMT+0100 2015 highestUID: 213
+[00:04:18.476] 00:01:21.063 | Assert: property is unset, but has no master page. How?-PagePageItem/masterPageValueTriState+PagePageItem/get browserGradientEnabled+CompositePageLDO/updateBackgroundInternal+CompositePageLDO/updateDisplayAsync+LayoutDisplayObjectUtils$/updateDisplayAsync+BaseLayoutDisplayObject/renderListener+HostObject/__call+HBDocumentManager/closeCanvas+APEDocumentCanvasList/close+MusePageCanvas/onPageDeleted+EventDispatcher/dispatchEventFunction+EventDispatcher/dispatchEvent+ListCollectionView/dispatchEvent+ListCollectionView/removeItemsFromView+ListCollectionView/listChangeHandler+EventDispatcher/dispatchEventFunction
+[00:04:18.476] AlertAndExit because of: property is unset, but has no master page. How?
+
+[00:04:18.537] Assert: '328:Cannot change workspaces while OWL is performing layout'. ...mac/../../src/MuseWorkspace.cpp:253 Condition:!OWLWorkspaceIsPerformingLayout()
+[00:04:18.537] AlertAndExit because of: Assertion failed in file "/Users/erato/Workspace/workspace/Build_Blob_Mac/dvaapp/Muse/project/mac/../../src/MuseWorkspace.cpp" at line 253: !OWLWorkspaceIsPerformingLayout()
+
+Cannot change workspaces while OWL is performing layout
+Exiting now because we already displayed the alert.
+Logging in build 2014.0.0.328 started at: Sun Mar 29 17:08:17 2015
+========================================
+[00:00:04.517] 00:00:00.000 | Recovered file:my app path:/Users/Demy/Documents/my app.muse highest UID:213
+[00:03:03.212] 00:02:58.695 | SaveAs complete for file '/Users/Demy/Documents/my app.muse' file size:1081344 mod Date:Sun Mar 29 17:11:20 GMT+0100 2015 highest UID:213
+[00:24:20.778] 00:21:17.567 | Save complete for file '/Users/Demy/Documents/my app.muse' file size:1081344 mod Date:Sun Mar 29 17:32:37 GMT+0100 2015 highest UID:213
+[01:02:19.523] 00:37:58.745 | Save complete for file '/Users/Demy/Documents/my app.muse' file size:1114112 mod Date:Sun Mar 29 18:10:35 GMT+0100 2015 highest UID:213
+[01:10:11.825] 00:07:52.301 | Opening file '/Users/Demy/Documents/my app.muse' with status:success size:1114112 mod Date:Sun Mar 29 18:10:35 GMT+0100 2015 highestUID: 213
+[01:13:19.363] 00:03:07.538 | Opening file '/Users/Demy/Documents/my app.muse' with status:success size:1114112 mod Date:Sun Mar 29 18:10:35 GMT+0100 2015 highestUID: 213
+[01:22:11.763] 00:08:52.401 | Save complete for file '/Users/Demy/Documents/my app.muse' file size:1212416 mod Date:Sun Mar 29 18:30:28 GMT+0100 2015 highest UID:213
+[01:34:58.379] 00:12:46.616 | Quitting Application after 94.9 minutes. Called by: MethodInfo-5710+MethodInfo-5723+EventDispatcher/dispatchEventFunction+EventDispatcher/dispatchEvent+MethodInfo-2775
+
+==========
+Logging ended at: Sun Mar 29 18:43:22 2015
+
+Logging in build 2014.0.0.328 started at: Sun Mar 29 22:48:28 2015
+========================================
+[00:00:05.891] 00:00:00.000 | Opening file '/Users/Demy/Documents/my app.muse' with status:success size:1212416 mod Date:Sun Mar 29 18:30:28 GMT+0100 2015 highestUID: 213
+[00:19:40.275] 00:19:34.386 | Save complete for file '/Users/Demy/Documents/my app.muse' file size:1245184 mod Date:Sun Mar 29 23:08:08 GMT+0100 2015 highest UID:232
+[00:21:57.113] 00:02:16.838 | Save complete for file '/Users/Demy/Documents/my app.muse' file size:1245184 mod Date:Sun Mar 29 23:10:25 GMT+0100 2015 highest UID:232
+[00:25:41.785] 00:03:44.672 | Save complete for file '/Users/Demy/Documents/my app.muse' file size:1245184 mod Date:Sun Mar 29 23:14:09 GMT+0100 2015 highest UID:236
+[00:39:27.015] 00:13:45.230 | Save complete for file '/Users/Demy/Documents/my app.muse' file size:1245184 mod Date:Sun Mar 29 23:27:55 GMT+0100 2015 highest UID:236
+[00:43:13.322] 00:03:46.307 | Quitting Application after 43.2 minutes. Called by: MethodInfo-5710+MethodInfo-5723+EventDispatcher/dispatchEventFunction+EventDispatcher/dispatchEvent+MethodInfo-2775
+
+==========
+Logging ended at: Sun Mar 29 23:31:43 2015
+
+Logging in build 2014.0.0.328 started at: Sun Mar 29 23:47:03 2015
+========================================
+[00:00:06.104] 00:00:00.000 | Opening file '/Users/Demy/Documents/my app.muse' with status:success size:1245184 mod Date:Sun Mar 29 23:27:55 GMT+0100 2015 highestUID: 236
+[00:09:00.010] 00:08:53.907 | Save complete for file '/Users/Demy/Documents/my app.muse' file size:1245184 mod Date:Sun Mar 29 23:56:03 GMT+0100 2015 highest UID:238
+[00:11:20.184] 00:02:20.174 | Save complete for file '/Users/Demy/Documents/my app.muse' file size:1245184 mod Date:Sun Mar 29 23:58:23 GMT+0100 2015 highest UID:238
+[00:12:37.223] 00:01:17.039 | Opening file '/Users/Demy/Documents/my app.muse' with status:success size:1245184 mod Date:Sun Mar 29 23:58:23 GMT+0100 2015 highestUID: 238
+[00:15:07.314] 00:02:30.090 | Save complete for file '/Users/Demy/Documents/my app.muse' file size:1277952 mod Date:Mon Mar 30 00:02:10 GMT+0100 2015 highest UID:238
+[00:16:47.664] 00:01:40.350 | Quitting Application after 16.8 minutes. Called by: MethodInfo-5710+MethodInfo-5723+EventDispatcher/dispatchEventFunction+EventDispatcher/dispatchEvent+MethodInfo-2775
+
+==========
+Logging ended at: Mon Mar 30 00:03:52 2015
+
+Logging in build 2014.0.0.328 started at: Mon Mar 30 17:06:19 2015
+========================================
+[00:00:06.289] 00:00:00.000 | Opening file '/Users/Demy/Documents/my app.muse' with status:success size:1277952 mod Date:Mon Mar 30 00:02:10 GMT+0100 2015 highestUID: 238
+[00:00:40.828] 00:00:34.540 | Quitting Application after 0.7 minutes. Called by: MethodInfo-5710+SiteFacade$/internalCloseAllSitesWithUI+SiteFacade$/attemptCloseAllSitesWithUI+MuseApp/quitWithUI
+
+==========
+Logging ended at: Mon Mar 30 17:07:01 2015
+
+Logging in build 2014.0.0.328 started at: Tue Mar 31 17:36:45 2015
+========================================
+[00:00:06.418] 00:00:00.000 | Opening file '/Users/Demy/Documents/my app.muse' with status:success size:1277952 mod Date:Mon Mar 30 00:02:10 GMT+0100 2015 highestUID: 238
+[00:44:32.767] 00:44:26.350 | Save complete for file '/Users/Demy/Documents/my app.muse' file size:1867776 mod Date:Tue Mar 31 18:21:18 GMT+0100 2015 highest UID:298
+[00:58:01.278] 00:13:28.511 | Quitting Application after 58 minutes. Called by: MethodInfo-5710+SiteFacade$/internalCloseAllSitesWithUI+SiteFacade$/attemptCloseAllSitesWithUI+MuseApp/quitWithUI
+
+==========
+Logging ended at: Tue Mar 31 18:34:49 2015
+
+Logging in build 2014.0.0.328 started at: Wed Apr  1 13:29:59 2015
+========================================
+[00:00:07.753] 00:00:00.000 | Opening file '/Users/Demy/Documents/my app.muse' with status:success size:1867776 mod Date:Tue Mar 31 18:21:18 GMT+0100 2015 highestUID: 298
+[00:38:44.100] 00:38:36.347 | Save complete for file '/Users/Demy/Documents/my app.muse' file size:1867776 mod Date:Wed Apr 1 14:08:43 GMT+0100 2015 highest UID:363

@@ -1,0 +1,33 @@
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1427893833496">
+  <folder name="css">
+    <file name="site_global.css" crc="475048684"/>
+    <file name="index.css" crc="3941492572" ref="index"/>
+    <file name="a320.css" crc="4129657317" ref="a320"/>
+    <file name="787.css" crc="81018193" ref="787"/>
+    <file name="generic.css" crc="430301286" ref="generic"/>
+  </folder>
+  <folder name="assets">
+    <file name="monarch-fuel.xlsx" crc="3939541652" mt="1427376387000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:a320:787:generic"/>
+    <file name="museutils.js" crc="212726984" ref="index:a320:787:generic"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="index:a320:787:generic"/>
+    <file name="jquery.musemenu.js" crc="440295907" ref="a320:787:generic"/>
+    <file name="html5shiv.js" crc="4241844378" ref="a320:787:generic"/>
+  </folder>
+  <folder name="images">
+    <file name="u185-6.png" crc="230088266" ref="generic"/>
+    <file name="pasted image 425x300.jpg" crc="373738589" ref="a320:generic"/>
+    <file name="u103-6.png" crc="225263378" ref="index"/>
+    <file name="u109-8-sprite.png" crc="3945738056" ref="index"/>
+    <file name="u362-10-sprite.png" crc="3802815861" ref="index"/>
+    <file name="u363-8-sprite.png" crc="45456446" ref="index"/>
+    <file name="u131-6.png" crc="4219315195" ref="a320"/>
+    <file name="u261-4.png" crc="337927360" ref="787"/>
+  </folder>
+  <file name="index.html" crc="4217206213" mt="1427893698612" redirect="true"/>
+  <file name="a320.html" crc="3827589427" mt="1427893698617" redirect="true"/>
+  <file name="787.html" crc="134368456" mt="1427893698619" redirect="true"/>
+  <file name="generic.html" crc="403371456" mt="1427893698614" redirect="true"/>
+</manifest>
